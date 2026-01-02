@@ -50,6 +50,10 @@ body {
     font-weight: 500;
 }
 
+.container a {
+    text-decoration: none;
+}
+
 #imgBox {
     width: 200px;
     border-radius: 5px;
